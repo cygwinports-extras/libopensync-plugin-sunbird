@@ -1,4 +1,4 @@
 category: Libs
-requires: cygwin glib2 libopensync0 libxml2 libneon27
+requires: glib2 libopensync0 libxml2 libneon27
 sdesc: "OpenSync Sunbird plugin"
 ldesc: "Sunbird plugin for the OpenSync synchronization framework"
